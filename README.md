@@ -11,7 +11,7 @@
 
 **Bridging microscopic traffic simulation (SUMO) with high-fidelity Virtual Reality rendering (Unity).**
 
-<img src="https://github.com/user-attachments/assets/471cd9d7-f4b7-40db-9b2d-481847c045ef" alt="Header Image" width="720" style="border-radius:10px; margin-top:20px; margin-bottom:20px;">
+
 
 </div>
 
@@ -111,7 +111,7 @@ Sumo2Unity supports **VR and Human-in-the-Loop Simulation**, from driving an ego
 
 SUMO and Unity run as completely separate background programs, conversing over an ultra-fast **NetMQ (ZeroMQ)** TCP Socket system (`localhost` ports `5556` and `5557`).
 
-![Flow Architecture Diagram](./Images/flow%20architecture%20diagram.png)
+![Flow Architecture Diagram](https://github.com/user-attachments/assets/471cd9d7-f4b7-40db-9b2d-481847c045ef)
 
 * **Traffic Physics Engine (SUMO)**: Generates deterministic AI vehicle data and phase light logic and pushes JSON packets.
 * **ExchangeData.cs (Unity)**: A concurrent background thread built into Unity pulling data to avoid frame stuttering.
