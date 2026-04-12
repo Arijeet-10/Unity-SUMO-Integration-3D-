@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🚗 SUMO2Unity: Traffic Co-Simulation Tool
@@ -10,7 +11,7 @@
 
 **Bridging microscopic traffic simulation (SUMO) with high-fidelity Virtual Reality rendering (Unity).**
 
-<img src="https://github.com/user-attachments/assets/b60f107a-2309-4260-b749-7d0a8c712c16" alt="Header Image" width="720" style="border-radius:10px; margin-top:20px; margin-bottom:20px;">
+<img src="https://github.com/user-attachments/assets/471cd9d7-f4b7-40db-9b2d-481847c045ef" alt="Header Image" width="720" style="border-radius:10px; margin-top:20px; margin-bottom:20px;">
 
 </div>
 
