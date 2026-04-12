@@ -3,11 +3,7 @@
 
 # 🚗 SUMO2Unity: Traffic Co-Simulation Tool
 
-![Contributors](https://img.shields.io/github/contributors/SimuTraffX-Lab/SUMO2Unity?style=for-the-badge&color=blue)
-![Forks](https://img.shields.io/github/forks/SimuTraffX-Lab/SUMO2Unity?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/SimuTraffX-Lab/SUMO2Unity?style=for-the-badge&color=gold)
-![Issues](https://img.shields.io/github/issues/SimuTraffX-Lab/SUMO2Unity?style=for-the-badge&color=red)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
 
 **Bridging microscopic traffic simulation (SUMO) with high-fidelity Virtual Reality rendering (Unity).**
 
@@ -119,14 +115,4 @@ SUMO and Unity run as completely separate background programs, conversing over a
 
 ---
 
-## 📜 Citations
 
-If you utilize SUMO2Unity in academic research, please cite our papers to support the project:
-
-> *Mohammadi, A., Park, P. Y., Nourinejad, M., Cherakkatil, M. S. B., & Park, H. S. (2024). SUMO2Unity: An Open-Source Traffic Co-Simulation Tool to Improve Road Safety. In IEEE Intelligent Vehicles Symposium (IV).*
-
-> *Mohammadi, A., Cherakkatil, M. S. B., Park, P. Y., Nourinejad, M., & Asgary, A. (2025). An Open-Source Virtual Reality Traffic Co-Simulation for Enhanced Traffic Safety Assessment. Applied Sciences.*
-
-## ⚖️ License
-* **Codebase:** Distributed under the MIT License.
-* **Assets:** Distributed under the CC-BY License.
