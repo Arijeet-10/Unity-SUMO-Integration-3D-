@@ -88,11 +88,11 @@ Follow these step-by-step video tutorials to configure the environment:
 
 Sumo2Unity supports **VR and Human-in-the-Loop Simulation**, from driving an ego car to bicycling through dense traffic logically managed by SUMO AI.
 
-*Click the thumbnails to play the YouTube Demos:*
+*Here are some local video demos of the simulation in action:*
 
-| 🚗 Driver Perspective | 🚲 Bicycle Perspective | 🌆 3D Visualization |
-|:---:|:---:|:---:|
-| [![Driver Demo](https://github.com/user-attachments/assets/325b2fec-d609-448e-9476-35763cb2047e)](https://youtu.be/im94-gCvA1E) | [![Bicycle Demo](https://github.com/user-attachments/assets/402e2d02-1064-40bb-83e9-dab1cd5f96a2)](https://youtu.be/-irVV5CndfI) | [![Vis Demo 1](https://github.com/user-attachments/assets/aaf4c68e-537e-4fee-9808-d326d917b1a0)](https://youtu.be/AnrVQ6WHWJg) |
+| 🚗 Car POV | 🦅 Birds View |
+|:---:|:---:|
+| <video src="./Images/Car%20POV.mp4" controls="controls" width="100%"></video> | <video src="./Images/Birds%20View.mp4" controls="controls" width="100%"></video> |
 
 ---
 
